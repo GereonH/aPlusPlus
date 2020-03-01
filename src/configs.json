@@ -1,0 +1,30 @@
+{
+    "konfig1": {
+        "1": {
+            "Inhalt": "Schrauben",
+            "anzahl": 5,
+            "stueckgewicht": 10,
+            "done": false
+        },
+        "2": {
+            "Inhalt": "Muttern",
+            "anzahl": 10,
+            "stueckgewicht": 15,
+            "done": false
+        }
+    },
+    "konfig2": {
+        "1": {
+            "Inhalt": "Hammer",
+            "anzahl": 5,
+            "stueckgewicht": 12,
+            "done": false
+        },
+        "2": {
+            "Inhalt": "Nagel",
+            "anzahl": 10,
+            "stueckgewicht": 14,
+            "done": false
+        }
+    }
+}
